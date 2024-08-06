@@ -3,7 +3,6 @@
 
 ### Eclipse ###
 .metadata
-bin/
 tmp/
 *.tmp
 *.bak
@@ -68,8 +67,6 @@ local.properties
 .sts4-cache/
 
 ### Java ###
-# Compiled class file
-*.class
 
 # Log file
 *.log
